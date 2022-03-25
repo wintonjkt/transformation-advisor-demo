@@ -6,4 +6,5 @@
   2. Install IBM Installation Manager, extract the downloaded zip file, and run install
   3. Add WebSphere 9.0 repository to IBM Installation Manager, we use WAS Base http://www.ibm.com/software/repositorymanager/com.ibm.websphere.BASE.v90
      Full reference: https://www.ibm.com/docs/en/was/9.0.5?topic=installation-online-product-repositories-websphere-application-server-offerings
-  4. 
+  4. Open Profile Management Tool and create an Application Server Profile
+  5. 
