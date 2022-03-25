@@ -20,5 +20,17 @@
   6. Open default Web UI console at http://your-server:9060/ibm/console
 
 ## Setup Day Trader
+  
+  1. Install svn
+```
+  sudo apt-get install subversion
+```
+  2. Install maven
+```
+  sudo apt update
+  sudo apt install maven
+  sudo apt install default-jdk
+```
+  4. Run svn co http://svn.apache.org/repos/asf/geronimo/daytrader/trunk/
 
 
