@@ -15,4 +15,5 @@
      
      For Example: /opt/IBM/WebSphere/AppServer/bin/startServer.sh server1
      
-  6. 
+  6. Open default Web UI console at http://your-server:9060/ibm/console
+  7. 
