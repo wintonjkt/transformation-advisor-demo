@@ -32,6 +32,12 @@
   1. Download Transformation Advisor Installer from: https://www.ibm.com/account/reg/signup?formid=urx-38642
   2. Run the installer script locally: ./launchTransformationAdvisor.sh
   3. Start Transformation Advisor, Run ./launchTransformationAdvisor.sh and select option 5
+  4. Create a Workspace
+  5. Download Data Collector, and extract the data collector
+  6. Run Data Collector
+```
+IBM WebSphere: ./bin/transformationadvisor -w <WEBSPHERE_HOME_DIR> -p <PROFILE_NAME> [--scan-node --ignore-missing-binary --ignore-missing-shared-library --applications --applications-file --skip-applications --skip-applications-file --no-upload] ([] denotes optional arguments)
+```
 
 
   References:  
