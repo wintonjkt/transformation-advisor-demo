@@ -31,6 +31,7 @@
   
   1. Download Transformation Advisor Installer from: https://www.ibm.com/account/reg/signup?formid=urx-38642
   2. Run the installer script locally: ./launchTransformationAdvisor.sh
+  3. Start Transformation Advisor, Run ./launchTransformationAdvisor.sh and select option 5
 
 
   References:  
