@@ -27,8 +27,12 @@
   sudo apt install maven
   sudo apt install default-jdk
 ```
-  2. Run git clone https://github.com/WASdev/sample.daytrader3.git
-  3. Run mvn install
-  4. 
+  2. Install Subversion
+```
+  sudo apt-get install subversion
+```
+  3. svn svn co http://svn.apache.org/repos/asf/geronimo/daytrader/trunk/
+  4. Run mvn install or Download the jar from https://repo1.maven.org/maven2/org/apache/geronimo/daytrader/javaee6/daytrader-ear/3.0.0/daytrader-ear-3.0.0.ear
+  5. 
 
 
