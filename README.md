@@ -21,16 +21,14 @@
 
 ## Setup Day Trader
   
-  1. Install svn
-```
-  sudo apt-get install subversion
-```
-  2. Install maven
+  1. Install maven
 ```
   sudo apt update
   sudo apt install maven
   sudo apt install default-jdk
 ```
-  4. Run svn co http://svn.apache.org/repos/asf/geronimo/daytrader/trunk/
+  2. Run git clone https://github.com/WASdev/sample.daytrader3.git
+  3. Run mvn install
+  4. 
 
 
