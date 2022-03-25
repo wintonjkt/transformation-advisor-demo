@@ -19,21 +19,19 @@
      
   6. Open default Web UI console at http://your-server:9060/ibm/console
 
-## Setup Day Trader
+## Setup PlantsByWebSphere
   
-  1. Install maven
-```
-  sudo apt update
-  sudo apt install maven
-  sudo apt install default-jdk
-```
-  2. Install Subversion
-```
-  sudo apt-get install subversion
-```
-  3. svn svn co http://svn.apache.org/repos/asf/geronimo/daytrader/trunk/
-  4. Run mvn install or Download the jar from https://repo1.maven.org/maven2/org/apache/geronimo/daytrader/javaee6/daytrader-ear/3.0.0/daytrader-ear-3.0.0.ear
-  5. 
+  1. Download file pbw.zip from this repository
+  2. Unzip pbw.zip
+  3. Deploy pbw-ear.ear
+  4. Copy PLANTDB directory to WEBSPHERE-INSTALL-DIR/derby/databases
+  5. Access the app from http://your-server:9080/PlantsByWebSphere/
+
+## Install Transformation Advisor
+  
+  1. Download Transformation Advisor Installer from: https://www.ibm.com/resources/mrs/assets/DirectDownload?source=swg-ctal&lang=en_US
+  2. Run the installer script locally: ./launchTransformationAdvisor.sh
+
 
   References:  
   Day Trader sample app can be found at:  
