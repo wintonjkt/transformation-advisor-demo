@@ -1,6 +1,6 @@
 # Traditional WebSphere Application Server Install Sample Day Trader  
   
-  Day Trader sample app can be found at: http://geronimo.apache.org/GMOxDOC30/daytrader-a-more-complex-application.html or https://github.com/WASdev/sample.daytrader3
+  
   
 ## Install and run WebSphere Application Server
 
@@ -35,4 +35,8 @@
   4. Run mvn install or Download the jar from https://repo1.maven.org/maven2/org/apache/geronimo/daytrader/javaee6/daytrader-ear/3.0.0/daytrader-ear-3.0.0.ear
   5. 
 
+  References:
+  Day Trader sample app can be found at: http://geronimo.apache.org/GMOxDOC30/daytrader-a-more-complex-application.html 
+  https://github.com/WASdev/sample.daytrader3
+  https://publib.boulder.ibm.com/wasce/V1.1.0/en/Tasks/Migrating/ToWebsphere.html
 
