@@ -29,7 +29,7 @@
 
 ## Install Transformation Advisor
   
-  1. Download Transformation Advisor Installer from: https://www.ibm.com/resources/mrs/assets/DirectDownload?source=swg-ctal&lang=en_US
+  1. Download Transformation Advisor Installer from: https://www.ibm.com/account/reg/signup?formid=urx-38642
   2. Run the installer script locally: ./launchTransformationAdvisor.sh
 
 
