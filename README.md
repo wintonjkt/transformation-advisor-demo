@@ -36,7 +36,8 @@
   5. 
 
   References:
-  Day Trader sample app can be found at: http://geronimo.apache.org/GMOxDOC30/daytrader-a-more-complex-application.html 
-  https://github.com/WASdev/sample.daytrader3
-  https://publib.boulder.ibm.com/wasce/V1.1.0/en/Tasks/Migrating/ToWebsphere.html
+  Day Trader sample app can be found at: 
+  http://geronimo.apache.org/GMOxDOC30/daytrader-a-more-complex-application.html   
+  https://github.com/WASdev/sample.daytrader3  
+  https://publib.boulder.ibm.com/wasce/V1.1.0/en/Tasks/Migrating/ToWebsphere.html  
 
