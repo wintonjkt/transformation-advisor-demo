@@ -12,4 +12,7 @@
      View the status of WebSphere Application Server, go to the [appserver root]/bin directory and run ./serverStatus.sh server_name
      Start WebSphere Application Server, go to the [appserver root]/bin directory and run ./startServer.sh server_name
      Stop WebSphere Application Server, go to the [appserver root]/bin directory and run ./stopServer.sh server_name
+     
+     For Example: /opt/IBM/WebSphere/AppServer/bin/startServer.sh server1
+     
   6. 
