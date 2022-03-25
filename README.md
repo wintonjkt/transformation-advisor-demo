@@ -1,4 +1,4 @@
-# Traditional WebSphere Application Server Install Sample Day Trader  
+# Transformation Advisor Demo Setup
   
   
   
