@@ -1,6 +1,6 @@
 # Traditional WebSphere Application Server Install Sample Day Trader  
   
-  Day Trader sample app can be found at: http://geronimo.apache.org/GMOxDOC30/daytrader-a-more-complex-application.html
+  Day Trader sample app can be found at: http://geronimo.apache.org/GMOxDOC30/daytrader-a-more-complex-application.html or https://github.com/WASdev/sample.daytrader3
   
 ## Install and run WebSphere Application Server
 
