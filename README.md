@@ -1,7 +1,9 @@
-# twas-install-sample-daytrader  
+# Traditional WebSphere Application Server Install Sample Day Trader  
   
   Day Trader sample app can be found at: http://geronimo.apache.org/GMOxDOC30/daytrader-a-more-complex-application.html
   
+## Install and run WebSphere Application Server
+
   1. Download IBM Installation Manager for your OS from https://www.ibm.com/support/pages/installation-manager-19
   2. Install IBM Installation Manager, extract the downloaded zip file, and run install
   3. Add WebSphere 9.0 repository to IBM Installation Manager, we use WAS Base http://www.ibm.com/software/repositorymanager/com.ibm.websphere.BASE.v90
@@ -16,4 +18,7 @@
      For Example: /opt/IBM/WebSphere/AppServer/bin/startServer.sh server1
      
   6. Open default Web UI console at http://your-server:9060/ibm/console
-  7. 
+
+## Setup Day Trader
+
+
